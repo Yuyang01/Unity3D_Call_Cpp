@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -Wall -Wextra -O3 -march=native  -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/dlltest.dir/src/SharedAPI.cpp.o  -o dlltest 

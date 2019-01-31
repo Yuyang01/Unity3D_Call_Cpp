@@ -1,3 +1,0 @@
-/Users/Yuyang/Documents/artMetiers/unity/call_Cplusplus/studentlib_shared/build/CMakeFiles/rebuild_cache.dir
-/Users/Yuyang/Documents/artMetiers/unity/call_Cplusplus/studentlib_shared/build/CMakeFiles/edit_cache.dir
-/Users/Yuyang/Documents/artMetiers/unity/call_Cplusplus/studentlib_shared/build/CMakeFiles/dlltest.dir

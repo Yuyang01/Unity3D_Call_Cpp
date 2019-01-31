@@ -51,7 +51,48 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\test.cs" />
+     <Compile Include="Assets\_Scripts\demo.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\cameraManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\caveFieldLimitManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\configScenario.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\configScenarioNet.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\ControleCamManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\deviceManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\editorSetup.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\fingerTrackingManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\flystickManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\gamepadManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\iiVRUnityInterface.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\mainCommand.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\multiDisplayManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\netSynchManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\netSynchManagerEditor.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\networkAgent.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\oculusOffsetManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\offsetCalibrationTarget.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\roomManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\tactileFingerManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\trackerManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersive\scripts\windowsFormManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersiveLight\scripts\cameraLightManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersiveLight\scripts\deviceLightManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersiveLight\scripts\displayManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersiveLight\scripts\iiVRLightInterface.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersiveLight\scripts\roomLightManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\immersiveLight\scripts\trackerLightManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\interactions\scripts\directedWalk.cs" />
+     <Compile Include="Assets\iiVRToolKit\interactions\scripts\HighLightManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\interactions\scripts\replaceRoomViveManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\interactions\scripts\selectionManager.cs" />
+     <Compile Include="Assets\iiVRToolKit\interactions\scripts\vivePadSelector.cs" />
+     <Compile Include="Assets\iiVRToolKit\utils\scripts\bezier.cs" />
+     <Compile Include="Assets\iiVRToolKit\utils\scripts\matricesTools.cs" />
+     <Compile Include="Assets\iiVRToolKit\utils\scripts\raycastRender.cs" />
+     <Compile Include="Assets\iiVRToolKit\utils\scripts\removeEmptyNodes.cs" />
+     <Compile Include="Assets\iiVRToolKit\utils\scripts\vrConvTools.cs" />
+     <None Include="Assets\iiVRToolKit\ReadMe.txt" />
+     <None Include="Assets\iiVRToolKit\interactions\shaders\standardWithOutline.shader" />
+     <None Include="Assets\iiVRToolKit\interactions\shaders\standardWithSobel.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

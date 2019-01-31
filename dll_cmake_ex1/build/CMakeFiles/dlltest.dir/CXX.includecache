@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/SharedAPI.h
+
+/Users/Yuyang/Documents/artMetiers/unity/call_Cplusplus/created_dll_cmake/src/SharedAPI.cpp
+iostream
+-
+SharedAPI.h
+/Users/Yuyang/Documents/artMetiers/unity/call_Cplusplus/created_dll_cmake/src/SharedAPI.h
+
